@@ -17,6 +17,6 @@ Three of the four tools use no model at all, so search and verification keep wor
 
 ### About
 
-Solo-founded and built in Minnesota by [Dustin Aldridge](https://www.linkedin.com/in/dustinaldridgemn/) — Army veteran, network administrator, dad. Started April 2026.
+Solo-founded and built in Minnesota by [Dustin Aldridge](https://www.linkedin.com/in/dustinaldridgemn/) — FatherAI Engineer & IT Infrastructure Engineer | Founder, Forge Agents AI | RAG, MCP, LLM evaluation, Python | Windows Server, Entra ID, Intune, Linux | U.S. Army Combat Veteran 08-14 - (Airborne Combat Engineer).
 
 [forgeagentsio.com](https://forgeagentsio.com) · daldridge@forgeagentsio.com
